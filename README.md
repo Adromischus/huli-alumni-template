@@ -4,7 +4,7 @@ Welcome to my page, my name is Barbora Kolarska and I'm a fresh alumni of Green 
 
 ## Hire me
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/barbora-kolarska-13bba5296/
 
 Email: barboraKolarska@seznam.cz
 
